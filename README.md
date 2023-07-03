@@ -21,6 +21,6 @@
   
   <a href ="https://guimendessantos.github.io/PortfolioGui/HTML/index.html" target="_blank"><img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge" target="_blank"></a>
 
- ![Snake animation](https://github.com/GuiMendesSantos/GuiMendesSantos/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EliasQueIsso/EliasQueIsso/blob/output/github-contribution-grid-snake.svg)
  
 </div>
